@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
+<hr>
 <h3 align="center">💻 Tech Stack:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
-
+<hr>
 <h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelRizzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
