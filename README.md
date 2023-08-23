@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DjangoREST">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -34,10 +35,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelRizzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRizzi&theme=dark&hide_border=false"><br/>
-</div>
-
-<hr>
-
-<div align=center>
-  <a href=https://visitcount.itsvg.in><img src=https://visitcount.itsvg.in/api?id=MiguelRizzi&icon=2&color=0></a>
 </div>
