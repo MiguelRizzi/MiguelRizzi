@@ -4,6 +4,7 @@
 <p align="center">
   Welcome to my GitHub profile! Here you'll find projects I've worked on and contributed to. Feel free to take a look around and contact me if you have any questions or comments.
 </p>
+<hr>
 
 <h3 align="center">🌐 Socials:</h3>
 <div align="center">
