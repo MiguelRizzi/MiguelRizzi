@@ -8,7 +8,7 @@
 
 <h3 align="center">🌐 Socials:</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/miguel-angel-rizzi">
+  <a href="https://linkedin.com/in/miguel-angel-rizzi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
