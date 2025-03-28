@@ -5,14 +5,6 @@
   Welcome to my GitHub profile! Here you'll find projects I've worked on and contributed to. Feel free to take a look around and contact me if you have any questions or comments.
 </p>
 <hr>
-
-<h3 align="center">🌐 Socials:</h3>
-<div align="center">
-  <a href="https://linkedin.com/in/miguel-angel-rizzi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-<hr>
 <h3 align="center">💻 Tech Stack:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
